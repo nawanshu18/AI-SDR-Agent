@@ -29,6 +29,13 @@ The notebooks were adapted to use Groq-hosted models instead of the default Open
 - Pydantic
 - Jupyter Notebook
 
+## Screenshots 
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/3d84a879-860f-4b1d-9d8e-f6a81a28e8fc" />
+
+<img width="1024" height="1536" alt="image " src="https://github.com/user-attachments/assets/0556c193-8abf-4e52-ae69-19de090acfaf" />
+
+
+
 ## Project Structure
 
 ```
