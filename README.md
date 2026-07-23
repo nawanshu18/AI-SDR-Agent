@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="AI SDR Agent " src="https://github.com/user-attachments/assets/02860bd3-c048-40e4-ba69-fce5b2313b28" />
+
+
 # AI SDR Agent
 
 An AI-powered Sales Development Representative (SDR) Agent built using the OpenAI Agents SDK and Groq-hosted LLMs.
